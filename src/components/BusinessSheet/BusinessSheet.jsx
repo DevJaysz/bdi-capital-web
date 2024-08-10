@@ -24,7 +24,7 @@ function BusinessSheet() {
           <button className="border-white border-2 rounded-full px-4 py-2 md:px-6 md:py-3 text-sm md:text-base  w-full md:w-auto hover:bg-white hover:text-black transition duration-300">
             I NEED HELP WITH OPERATIONS
           </button>
-          <button className="border-white border-2 rounded-full px-4 py-2 md:px-6 md:py-3 text-sm md:text-base  w-full md:w-auto hover:bg-white hover:text-black transition duration-300">
+          <button className="border-white border-2 rounded-full px-4 py-2 md:px-6 md:py-3 text-sm md:text-base  w-full md:w-auto ">
             I NEED HELP WITH MY EXIT
           </button>
         </div>
