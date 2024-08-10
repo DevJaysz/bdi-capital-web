@@ -14,7 +14,7 @@ function WhoareWe() {
             alt="office content 2"
           />
         </div>
-        <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400 font-gothic">
+        <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400 font-century-gothic">
           <h2 className="mb-4 text-4xl tracking-tight font-bold  text-gray-900 dark:text-white">
             Get to Know Us
           </h2>

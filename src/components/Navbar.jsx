@@ -20,7 +20,7 @@ function Navbar() {
         />
 
         {/* Navbar Links */}
-        <ul className="hidden md:flex space-x-4 uppercase font-gothic font-light cursor-pointer">
+        <ul className="hidden md:flex space-x-4 uppercase font-century-gothic font-light cursor-pointer">
           <li className="p-2 text-xs md:text-sm lg:text-base">Our Journey</li>
           <li className="p-2 text-xs md:text-px] lg:text-base">
             Thrive with us

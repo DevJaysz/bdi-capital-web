@@ -5,7 +5,7 @@ function BusinessSheet() {
       <div className="absolute inset-0 bg-black opacity-80"></div>
 
       {/* Content */}
-      <div className="relative text-center max-w-4xl mx-auto font-gothic z-10">
+      <div className="relative text-center max-w-4xl mx-auto font-century-gothic z-10">
         <p className="mb-4 text-base sm:text-lg">
           At BDI Capital, we take care of all the questions that keep you up at
           night, all the questions you can’t answer, and all the tasks you’re
