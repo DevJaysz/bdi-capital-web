@@ -4,8 +4,8 @@
 
 @font-face {
   font-family: 'century-gothic';
-  src: url('/src/assets/fonts/Century\ Gothic.ttf'),
-      
+  src: url('/public/fonts/Century\ Gothic.ttf'),
+  
  
 }
 body{
