@@ -1,6 +1,6 @@
 function BusinessSheet() {
   return (
-    <div className="relative flex flex-col items-center justify-center min-h-screen bg-custom-background bg-cover bg-center p-8 text-gray-500 sm:text-lg dark:text-gray-400 ">
+    <div className="relative flex flex-col items-center justify-center min-h-screen bg-customBg bg-cover bg-center p-8 text-gray-500 sm:text-lg dark:text-gray-400 ">
       {/* Dark Overlay */}
       <div className="absolute inset-0 bg-black opacity-80"></div>
 
