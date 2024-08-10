@@ -2,7 +2,6 @@ import { useState } from "react";
 import Logo from "../assets/navbar/BDI Capital Logo PNG.png";
 import { IoIosMenu, IoIosClose } from "react-icons/io";
 import { BsFillTelephoneFill } from "react-icons/bs";
-
 function Navbar() {
   const [nav, setNav] = useState(false);
 
@@ -20,7 +19,7 @@ function Navbar() {
         />
 
         {/* Navbar Links */}
-        <ul className="hidden md:flex space-x-4 uppercase font-century-gothic font-light cursor-pointer">
+        <ul className="hidden md:flex space-x-4 uppercase font-centuryGothic font-light cursor-pointer">
           <li className="p-2 text-xs md:text-sm lg:text-base">Our Journey</li>
           <li className="p-2 text-xs md:text-px] lg:text-base">
             Thrive with us

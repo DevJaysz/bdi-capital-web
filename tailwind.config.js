@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        century:['century-gothic']
+        centuryGothic:['Century-Gothic']
       }
     },
   },

@@ -3,10 +3,9 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'century-gothic';
-  src: url('/src/assets/fonts/Century\ Gothic.ttf'),format('truetype');
-  font-weight: normal;
-  font-style: normal;
+  font-family: 'Century-Gothic';
+  src: local("Century-Gothic"),
+  url('./assets/fonts/Century-Gothic.ttf') format("truetype")
 }
 body{
     background-color: #111111;
