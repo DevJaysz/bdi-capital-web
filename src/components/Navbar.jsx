@@ -10,7 +10,7 @@ function Navbar() {
   };
 
   return (
-    <nav className="sticky top-0 z-50 border-b shadow-slate-50 bg-[#111111]">
+    <nav className="sticky top-0 z-50 border-b shadow-slate-50 bg-[#111111] font-centuryGothic">
       <div className="flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white cr">
         <img
           src={Logo}
@@ -19,7 +19,7 @@ function Navbar() {
         />
 
         {/* Navbar Links */}
-        <ul className="hidden md:flex space-x-4 uppercase font-centuryGothic font-light cursor-pointer">
+        <ul className="hidden md:flex space-x-4 uppercase  font-light cursor-pointer">
           <li className="p-2 text-xs md:text-sm lg:text-base">Our Journey</li>
           <li className="p-2 text-xs md:text-px] lg:text-base">
             Thrive with us
