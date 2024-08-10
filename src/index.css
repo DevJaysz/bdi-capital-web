@@ -2,23 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'century-gothic';
+  src: url('/src/assets/fonts/Century\ Gothic.ttf'),
+      
+ 
+}
 body{
     background-color: #111111;
 }
 
-@keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-30px);
-    }
-    60% {
-      transform: translateY(-15px);
-    }
-  }
-  
-  .bounce {
-    @apply animate-bounce; /* Tailwind utility class for bounce animation */
-    animation: bounce 2s infinite; /* Custom bounce animation */
-  }
