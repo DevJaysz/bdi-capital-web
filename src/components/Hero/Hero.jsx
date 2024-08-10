@@ -24,7 +24,7 @@ function Hero() {
         </div>
 
         {/* Text and Arrow */}
-        <div className="flex flex-col items-center justify-center text-center pt-8 space-y-4 font-century-gothic ">
+        <div className="flex flex-col items-center justify-center text-center pt-8 space-y-4 font-centuryGothic ">
           <h2 className="text-lg sm:text-sm md:text-2xl lg:text-3xl">
             NEED ALL THE ANSWERS?
           </h2>
