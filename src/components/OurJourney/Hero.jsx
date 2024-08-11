@@ -3,6 +3,8 @@ import { FaMicrophone, FaSearch } from "react-icons/fa";
 import { MdKeyboardDoubleArrowDown } from "react-icons/md";
 import BusinessSheet from "../BusinessSheet/BusinessSheet";
 import WhoareWe from "../WhoareWe/WhoareWe";
+import TrackRecord from "../TrackRecord/TrackRecord";
+import Timeline from "../Timeline/Timeline";
 
 function Hero() {
   return (
@@ -36,6 +38,8 @@ function Hero() {
       </div>
       <BusinessSheet />
       <WhoareWe />
+      <TrackRecord />
+      <Timeline />
     </>
   );
 }

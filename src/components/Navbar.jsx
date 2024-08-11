@@ -19,8 +19,10 @@ function Navbar() {
         />
 
         {/* Navbar Links */}
-        <ul className="hidden md:flex space-x-4 uppercase  font-light cursor-pointer">
-          <li className="p-2 text-xs md:text-sm lg:text-base">Our Journey</li>
+        <ul className="hidden md:flex space-x-4 uppercase  font-light ">
+          <li className="p-2 text-xs md:text-sm lg:text-base cursor-pointer">
+            Our Journey
+          </li>
           <li className="p-2 text-xs md:text-px] lg:text-base">
             Thrive with us
           </li>
@@ -29,7 +31,7 @@ function Navbar() {
         </ul>
 
         {/* Contact Button */}
-        <button className="hidden md:flex items-center uppercase p-2 text-xs md:text-sm lg:text-base space-x-2">
+        <button className="hidden md:flex items-center uppercase p-2 text-xs md:text-sm lg:text-base space-x-4">
           <BsFillTelephoneFill />
           <span>Contact us</span>
         </button>

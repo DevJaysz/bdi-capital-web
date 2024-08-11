@@ -1,4 +1,4 @@
-import Hero from "./components/Hero/Hero";
+import Hero from "./components/OurJourney/Hero";
 import Navbar from "./components/Navbar";
 
 function App() {
